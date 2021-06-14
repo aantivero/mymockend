@@ -1,0 +1,6 @@
+{
+  "Cheques": {
+    "emisor": "string",
+    "nroCheque": "string"
+  }
+}
